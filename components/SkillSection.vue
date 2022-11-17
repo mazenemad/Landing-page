@@ -26,6 +26,8 @@
 </template>
 <style scoped>
     section{
+        padding-left:10px;
+        padding-right:10px;
         font-family:Georgia, 'Times New Roman', Times, serif;
         display: flex;
         justify-content: center;

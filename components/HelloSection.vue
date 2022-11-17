@@ -17,7 +17,8 @@
         text-align: center;
         justify-content: center;
         max-width: calc(100%-100px);
-
+        padding-left:10px;
+        padding-right:10px;
     }
     .angelaphoto{
     display: block;
